@@ -3,9 +3,13 @@
 - Team name: 404Found
 - Team Members:
     - [Rishi Kumar Gade](https://github.com/RishiKumarGade)
-    - [Ananya Pappula](https://github.com/Ananya54321)
-    - [Sneha Muthyala](https://github.com/SnehaMuthyala)
-    - [Dhruv S Shah](https://github.com/TheSpecsGuy17)
+    -  - [Rishi Kumar Gade](https://github.com/RishiKumarGade)
+       -  - [Rishi Kumar Gade](https://github.com/RishiKumarGade)
+          -  - [Rishi Kumar Gade](https://github.com/RishiKumarGade)
+             -  - [Rishi Kumar Gade](https://github.com/RishiKumarGade)
+                -  - [Rishi Kumar Gade](https://github.com/RishiKumarGade)
+                   - hehehehehe
+     
 
 ## Tech Stack
   - Frontend : html , css, tailwind css, react
